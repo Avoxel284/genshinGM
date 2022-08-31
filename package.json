@@ -1,0 +1,17 @@
+{
+	"name": "genshin-gm",
+	"version": "1.0.0",
+	"description": "A small module for finding an item in a very specific anime game",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"chalk": "^4.0.0",
+		"fuse.js": "^6.6.2",
+		"inquirer": "^8.2.3",
+		"inquirer-autocomplete-prompt": "^2.0.0"
+	}
+}

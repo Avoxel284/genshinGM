@@ -3,6 +3,9 @@
 	"version": "1.0.0",
 	"description": "A small module for finding an item in a very specific anime game",
 	"main": "index.js",
+	"bin": {
+		"gml": "index.js"
+	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},

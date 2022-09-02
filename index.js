@@ -4,6 +4,8 @@ const gm = require("./gm.json");
 const chalk = require("chalk");
 const fs = require("fs");
 
+
+
 async function main() {
 	console.log();
 

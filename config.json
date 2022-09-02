@@ -1,0 +1,6 @@
+{
+	"COMMANDS":{
+		"MENU": "return",
+		"GENERATE_ARTIFACT_GIVE_CMD": "A"
+	}
+}
